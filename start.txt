@@ -1,0 +1,18 @@
+//ѧϰerlang
+//2013-4-17
+//Luocheng.Li
+
+Question:
+1,  what is erlang? what it can do?
+2,  how to start a "hello world"?(Include the eviroment)
+3,  As a language,  what is its key word? How does it work?
+4,  How to express a variable? How to use a functions?
+	How to use a numberic, a string.?
+	input, output,
+5,  What datatype it has?
+6,	File operation, Date time operation, Thread, Socket, 
+7,  How to use many files to build a big project?
+	How to debug? 
+8,	Library.
+9,  Exception.
+10, What is the difference between erlang and C/C++?
